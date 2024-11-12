@@ -1,0 +1,47 @@
+*{
+
+}
+.sigma{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;                
+    justify-content: space-between;
+}
+
+
+
+
+
+
+.box1 {
+    width: 200px; 
+    height: 200px; 
+    background-color:blue; 
+    border: 2px solid blue; 
+    padding: 10px; 
+
+}
+.box2 {
+    width: 200px; 
+    height: 200px; 
+    background-color:green; 
+    border: 2px solid green; 
+    padding: 10px; 
+
+}
+.box3 {
+    width: 200px; 
+    height: 200px; 
+    background-color:black; 
+    border: 2px solid black; 
+    padding: 10px; 
+
+}
+.box4 {
+    width: 200px; 
+    height: 200px; 
+    background-color:red; 
+    border: 2px solid red; 
+    padding: 10px; 
+
+}
